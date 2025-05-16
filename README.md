@@ -1,15 +1,17 @@
 # Hi, I'm Yohannes (John Mekonen)
 
-### Web Developer | Graphic Designer | Video Editor | Creative Technologist  
+---
+
+## **Web Developer**  |  **Graphic Designer**  |  **Video Editor**  |  **Creative Technologist**
 
 ---
 
-## About Me  
-I'm a passionate developer and designer from the Department of Information Systems, blending technology and creativity to build powerful, user-centered digital experiences.
+### About Me  
+I'm a passionate developer and designer from the **Department of Information Systems**, blending **technology** and **creativity** to build powerful, user-centered digital experiences.
 
 ---
 
-## What I Do  
+### What I Do  
 - Full-Stack Web Development – MERN Stack, React, Next.js  
 - Graphic Design – Branding, UI/UX, Posters, Social Media  
 - Video Editing – Promos, Educational Content, Storytelling  
@@ -17,7 +19,7 @@ I'm a passionate developer and designer from the Department of Information Syste
 
 ---
 
-## Currently Learning  
+### Currently Learning  
 - Machine Learning & AI  
 - Cloud Architecture  
 - Advanced Web Development with React  
@@ -25,7 +27,7 @@ I'm a passionate developer and designer from the Department of Information Syste
 
 ---
 
-## Let's Collaborate  
+### Let's Collaborate  
 I'm open to working on:  
 - Open-source projects in AI, Data Science, or Cloud Tech  
 - Freelance/startup projects needing design + development  
@@ -33,17 +35,17 @@ I'm open to working on:
 
 ---
 
-## Contact Me  
-Email: [yohannesm294@gmail.com](mailto:yohannesm294@gmail.com)  
-Telegram: [@yoni2383](https://t.me/yoni2383)
+### Contact Me  
+**Email:** [yohannesm294@gmail.com](mailto:yohannesm294@gmail.com)  
+**Telegram:** [@yoni2383](https://t.me/yoni2383)
 
 ---
 
-## Fun Fact  
-I love working out (especially chest day) and enjoy solving complex programming problems.  
+### Fun Fact  
+I love working out (especially chest day) and enjoy solving complex programming problems.
 
-> “Creativity is intelligence having fun.” – Albert Einstein  
+> “Creativity is intelligence having fun.” – Albert Einstein
 
 ---
 
-Let's build something amazing together!
+**Let’s build something amazing together!**
