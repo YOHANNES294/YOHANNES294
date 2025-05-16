@@ -1,44 +1,42 @@
-# 👋 Hi, I’m @YOHANNES294(John Mekonen)
-# Department Of Information System 
+👋 Hi, I'm Yohannes (John Mekonen)
+Web Developer | Graphic Designer | Video Editor | Creative Technologist
 
-## 🌟 About Me
-- 👀 I’m interested in:
-  - Software Development  
-  - Graphic Design  
-  - Web Design  
-  - Designing User Interfaces  
+🌟 About Me
+I’m a passionate developer and designer from the Department of Information Systems, blending technology and creativity to build powerful, engaging digital experiences.
 
-## 🌱 What I’m currently learning:
-- Machine Learning 🤖  
-- React ⚛️  
-- Cloud Architecture ☁️  
-- Advanced Web Development 💻  
-- UI/UX Design Principles 🎨  
-- Integrating beautiful designs with efficient code 💡  
+💼 What I Do
+Full-Stack Web Development – MERN Stack, React, Next.js
 
-## 💞 Collaboration
-I’m looking to collaborate on open-source projects related to:
-- Data Science 📊
-- AI 🤖  
-- Cloud Technologies ☁️  
+Graphic Design – Branding, UI/UX, Posters, Social Media
 
-## 📫 How to reach me
-- 📧 Email: [yohannesm294@gmail.com](mailto:yohannesm294@gmail.com)  
-- 📱 Telegram: [@yoni2383](https://t.me/yoni2383)  
+Video Editing – Short promos, educational content, storytelling
 
-## 😄 Pronouns:
-- He/Him  
+UI/UX Design – Intuitive, modern, user-first interfaces
 
-## ⚡️ Fun Fact
-- I love working out and building my chest 💪  
-- I enjoy solving complex programming problems 🧠  
+🌱 Currently Learning
+Machine Learning & AI 🤖
 
----
+Cloud Architecture ☁️
 
-> "Creativity is intelligence having fun!" - Albert Einstein  
-> Let's build amazing things together! 🚀
+Advanced Web Dev & React ⚛️
 
-<!---  
-YOHANNES294/YOHANNES294 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.  
-You can click the Preview link to take a look at your changes.  
---->
+UI/UX Design Principles 🎨
+
+🤝 Let's Collaborate
+I'm open to working on:
+
+Open-source projects in AI, data science, and cloud
+
+Freelance or startup projects needing design + development
+
+UI/UX makeovers and frontend optimization
+
+📫 Contact Me
+📧 Email: yohannesm294@gmail.com
+📱 Telegram: @yoni2383
+
+⚡️ Fun Fact
+I love working out (especially chest day 💪) and solving challenging coding problems 🧠.
+
+“Creativity is intelligence having fun.” – Albert Einstein
+
