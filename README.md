@@ -1,42 +1,49 @@
-👋 Hi, I'm Yohannes (John Mekonen)
-Web Developer | Graphic Designer | Video Editor | Creative Technologist
+# Hi, I'm Yohannes (John Mekonen)
 
-🌟 About Me
-I’m a passionate developer and designer from the Department of Information Systems, blending technology and creativity to build powerful, engaging digital experiences.
+### Web Developer | Graphic Designer | Video Editor | Creative Technologist  
 
-💼 What I Do
-Full-Stack Web Development – MERN Stack, React, Next.js
+---
 
-Graphic Design – Branding, UI/UX, Posters, Social Media
+## About Me  
+I'm a passionate developer and designer from the Department of Information Systems, blending technology and creativity to build powerful, user-centered digital experiences.
 
-Video Editing – Short promos, educational content, storytelling
+---
 
-UI/UX Design – Intuitive, modern, user-first interfaces
+## What I Do  
+- Full-Stack Web Development – MERN Stack, React, Next.js  
+- Graphic Design – Branding, UI/UX, Posters, Social Media  
+- Video Editing – Promos, Educational Content, Storytelling  
+- UI/UX Design – Clean, modern, user-first interfaces  
 
-🌱 Currently Learning
-Machine Learning & AI 🤖
+---
 
-Cloud Architecture ☁️
+## Currently Learning  
+- Machine Learning & AI  
+- Cloud Architecture  
+- Advanced Web Development with React  
+- UI/UX Design Principles
 
-Advanced Web Dev & React ⚛️
+---
 
-UI/UX Design Principles 🎨
+## Let's Collaborate  
+I'm open to working on:  
+- Open-source projects in AI, Data Science, or Cloud Tech  
+- Freelance/startup projects needing design + development  
+- UI/UX makeovers and frontend optimization  
 
-🤝 Let's Collaborate
-I'm open to working on:
+---
 
-Open-source projects in AI, data science, and cloud
+## Contact Me  
+Email: [yohannesm294@gmail.com](mailto:yohannesm294@gmail.com)  
+Telegram: [@yoni2383](https://t.me/yoni2383)
 
-Freelance or startup projects needing design + development
+---
 
-UI/UX makeovers and frontend optimization
+## Fun Fact  
+I love working out (especially chest day) and enjoy solving complex programming problems.  
 
-📫 Contact Me
-📧 Email: yohannesm294@gmail.com
-📱 Telegram: @yoni2383
+> “Creativity is intelligence having fun.” – Albert Einstein  
 
-⚡️ Fun Fact
-I love working out (especially chest day 💪) and solving challenging coding problems 🧠.
+---
 
-“Creativity is intelligence having fun.” – Albert Einstein
-
+Let's build something amazing together!
