@@ -9,13 +9,11 @@
 ---
 
 ### About Me  
-I'm a passionate creator from the Department of Information Systems, blending code and creativity to craft user-focused digital experiences. With a strong focus on **cybersecurity**, I ensure robust, secure systems that protect data and users while solving complex problems and designing beautiful interfaces. I love turning ideas into reality with security at the core of every solution, safeguarding against digital attacks to protect sensitive information and maintain operational integrity.
+I'm a passionate creator from the Department of Information Systems, combining coding skills with creative design to build user-focused digital experiences. I enjoy solving complex problems, crafting intuitive interfaces, and developing secure, effective solutions that bring ideas to life.
 
 ---
 
 ### What I Do
-- Information System Security & Cybersecurity
-Protecting systems through data security, access control, vulnerability assessment, and threat mitigation to ensure resilient digital infrastructure.
 - Full-Stack Web Development – MERN Stack, React, Next.js  
 - Graphic Design – Branding, UI/UX, Posters, Social Media  
 - Video Editing – Promos, Educational Content, Storytelling  
@@ -46,8 +44,8 @@ Protecting systems through data security, access control, vulnerability assessme
 ---
 
 ### Fun Fact  
-I'm always in the gym on chest day 💪  
-And always coding like it's a puzzle 🧠  
+I'm always in the gym on chest day  
+And always coding like it's a puzzle  
 
 > “Creativity is intelligence having fun.” – Albert Einstein
 
