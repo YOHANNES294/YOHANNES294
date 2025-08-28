@@ -4,7 +4,7 @@
 
 ---
 
-## Web Developer | Graphic Designer | Video Editor | Creative Technologist | Cybersecurity Specialist
+## Software Developer | Graphic Designer | Video Editor | Creative Technologist | Junior Network Enginers 
 
 ---
 
