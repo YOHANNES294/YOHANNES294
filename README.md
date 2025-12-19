@@ -47,12 +47,4 @@ You can hire me directly on Upwork or reach out anytime.
 💬 Telegram: @yoni2383
 
 
-### Fun Fact  
-I'm always in the gym on chest day  
-And always coding like it's a puzzle  
-
-> “Creativity is intelligence having fun.” – Albert Einstein
-
----
-
 **Let’s build, design, and innovate — together.**
