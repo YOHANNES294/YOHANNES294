@@ -38,7 +38,7 @@ I'm a passionate creator from the Department of Information Systems, combining c
 ---
 
 ### Contact Me  
-**Upwork:** https://www.upwork.com/freelancers/~01dddf67cd55013f66
+**Upwork:** .[https://www.upwork.com/freelancers/~01dddf67cd55013f66]
 **Email:** [yohannesm294@gmail.com](mailto:yohannesm294@gmail.com)  
 **Telegram:** [@yoni2383](https://t.me/yoni2383)
 
