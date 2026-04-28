@@ -1,6 +1,6 @@
 # Hi, I'm Yohannes (John Mekonen)
 
-> But you can call me **Developer John** or **Designer John** — depending on what I'm building today 😉
+> But you can call me **Developer John** or **Designer John** depending on what I'm building today 😉
 
 ---
 
