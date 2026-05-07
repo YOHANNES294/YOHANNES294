@@ -4,7 +4,7 @@
 
 ---
 
-## Software Developer | Graphic Designer | Video Editor | Creative Technologist | Junior Network Enginers 
+## Software Developer | Graphic Designer | Video Editor | Creative Technologist
 
 ---
 
