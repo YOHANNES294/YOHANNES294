@@ -17,7 +17,7 @@ I'm a passionate creator from the Department of Information Systems, combining c
 - Full-Stack Web Development – MERN Stack, React, Next.js  
 - Graphic Design – Branding, UI/UX, Posters, Social Media  
 - Video Editing – Promos, Educational Content, Storytelling  
-- UI/UX Design – Clean, intuitive, modern interfaces  
+-  UI/UX Design – Clean, intuitive, modern interfaces  
 
 ---
 
@@ -43,8 +43,9 @@ Looking for a reliable developer?
 You can hire me directly on Upwork or reach out anytime.
 
 👉 Upwork: https://www.upwork.com/freelancers/~01dddf67cd55013f66  
-📧 Email: yohannesm294@gmail.com  
-💬 Telegram: @yoni2383
+👉 Email: yohannesm294@gmail.com  
+👉 Telegram: @yoni2383
+👉 Linkedin: www.linkedin.com/in/yohannes-mekonnen-262873358
 
 
 **Let’s build, design, and innovate — together.**
